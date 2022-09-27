@@ -22,12 +22,3 @@ psql
 postgres=# /q
 ```
 
-1356192
-
-2b0582246b18a908e1c908dc2deba611 
-
-5324628830:aahil-1e2-s9jb5nqpizanmxazsq4ekoiik
-
-5291720286
-
-5324628830:AAERn2LmIDx2EjjKELBOSj8av6lx1biND0g
