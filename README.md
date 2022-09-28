@@ -1,8 +1,4 @@
-<html>
-<head>
-<title>oh boy! </title>
-</head>
-<body>
+
 ## Basic Student rating api using fastApi and postgress
 
 >As you can see, the plan is to use fast API to create a student rating API and store the data in a Postgres database, but installing Postgres in Linux is a pain, so I'll have to use something lighter, like Sqlite or SQL Alchemy and I forgot one thing the postgres driver "psycopg" I don't even know how to pronounce it also its unstable this project will be down for some time.
@@ -11,7 +7,8 @@
 ``` ```
 ## postgres installation
 
-<p>To install PostgreSQL, first refresh your server’s local package index:</p>
+
+To install PostgreSQL, first refresh your server’s local package index:
 ```
 sudo apt update
 ```
@@ -30,5 +27,4 @@ psql
 ```
 postgres=# /q
 ```
-</body>
-</html>
+
