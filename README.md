@@ -5,6 +5,8 @@
 ## Step 1 — Installing PostgreSQL 
 ``` ```
 ## postgres installation
+
+<p>To install PostgreSQL, first refresh your server’s local package index:</p>
 ```
 sudo apt update
 ```
