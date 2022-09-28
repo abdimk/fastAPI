@@ -9,7 +9,7 @@
 
 
 To install PostgreSQL, first refresh your server’s local package index:
-```
+```diff
 + sudo apt update
 ```
 ```
