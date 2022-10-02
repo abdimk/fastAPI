@@ -12,6 +12,7 @@ To install PostgreSQL, first refresh your server’s local package index:
 ```diff
 + sudo apt update
 ```
+Then, install the Postgres package along with a -contrib package that adds some additional utilities and functionality:
 ```diff
 + sudo apt install postgresql postgresql-contrib
 ```
