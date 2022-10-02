@@ -16,6 +16,7 @@ Then, install the Postgres package along with a -contrib package that adds some 
 ```diff
 + sudo apt install postgresql postgresql-contrib
 ```
+Ensure that the service is started:
 ```diff
 + sudo systemctl start postgresql.service
 ```
