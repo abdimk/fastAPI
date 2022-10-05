@@ -1,0 +1,3 @@
+https://opensky-network.org/network/explorer
+https://globe.adsbexchange.com/?icao=06a36c
+https://www.planespotters.net/airline/Ethiopian-Airlines?refresh=2
